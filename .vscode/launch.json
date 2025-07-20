@@ -1,0 +1,98 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        },
+        {
+            "type": "java",
+            "name": "Addition",
+            "request": "launch",
+            "mainClass": "Addition",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "AreaOfCircle",
+            "request": "launch",
+            "mainClass": "AreaOfCircle",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Arithmetic",
+            "request": "launch",
+            "mainClass": "Arithmetic",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Clg",
+            "request": "launch",
+            "mainClass": "Clg",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "EvenOdd",
+            "request": "launch",
+            "mainClass": "EvenOdd",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Fibonnaci",
+            "request": "launch",
+            "mainClass": "Fibonnaci",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Main",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Test",
+            "request": "launch",
+            "mainClass": "Test",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Test4",
+            "request": "launch",
+            "mainClass": "Test4",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "Test5",
+            "request": "launch",
+            "mainClass": "Test5",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "some",
+            "request": "launch",
+            "mainClass": "some",
+            "projectName": "Java_72da403b"
+        },
+        {
+            "type": "java",
+            "name": "test2",
+            "request": "launch",
+            "mainClass": "test2",
+            "projectName": "Java_72da403b"
+        }
+    ]
+}

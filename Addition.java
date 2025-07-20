@@ -1,5 +1,7 @@
 import java.util.Scanner;
 
+// This function is used for adding to values
+
 public class Addition {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
